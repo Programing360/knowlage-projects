@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering React in 30 Days",
+    "cover": "https://i.ibb.co.com/zTVZhhNm/public-examination-preparation-concept.jpg",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/xqchrCxz/portrait-male-traveler-looking-camera-outdoors.jpg",
+    "posted_date": "2024-12-05",
+    "reading_time": "7 min read",
+    "hashtag": [
+      "#react",
+      "#javascript",
+      "#frontend"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript Closures",
+    "cover": "https://i.ibb.co.com/m5SDjD7M/notebook-business-elements.jpg",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/Q3Nrb60Z/young-adult-enjoying-virtual-date.jpg",
+    "posted_date": "2025-01-10",
+    "reading_time": "5 min read",
+    "hashtag": [
+      "#javascript",
+      "#advanced",
+      "#coding"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "CSS Grid vs Flexbox: Which to Use?",
+    "cover": "https://i.ibb.co.com/N62PqC9K/collage-about-childhood-concept.jpg",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co.com/PG65XscD/close-up-smiling-man-field-sunset.jpg",
+    "posted_date": "2025-03-02",
+    "reading_time": "6 min read",
+    "hashtag": [
+      "#css",
+      "#webdesign",
+      "#frontend"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "10 Tips to Improve Web Performance",
+    "cover": "https://i.ibb.co.com/j9RXd3NR/stacks-old-textbooks-dim-library-generated-by-ai.jpg",
+    "author": "Mark Lee",
+    "author_img": "https://i.ibb.co.com/PG65XscD/close-up-smiling-man-field-sunset.jpg",
+    "posted_date": "2025-04-12",
+    "reading_time": "4 min read",
+    "hashtag": [
+      "#performance",
+      "#web",
+      "#devtools"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Async/Await Explained with Examples",
+    "cover": "https://i.ibb.co.com/847MY752/watercolor-elephant-illustration.jpg",
+    "author": "Sara Kim",
+    "author_img": "https://i.ibb.co.com/PG65XscD/close-up-smiling-man-field-sunset.jpg",
+    "posted_date": "2025-02-22",
+    "reading_time": "8 min read",
+    "hashtag": [
+      "#javascript",
+      "#async",
+      "#webdev"
+    ]
+  }
+]
