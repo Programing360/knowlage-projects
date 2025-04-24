@@ -1,8 +1,8 @@
 // import blog from '../../assets/images/1.jpg'
 import { LuBookmark } from "react-icons/lu";
-const Blog = ({ blog, handleBookMark }) => {
+const Blog = ({ blog, handleBookMark, handleTimeOnRead }) => {
     // console.log(blog)
-    const { cover, title, author_img, author, reading_time, posted_date, hashtag
+    const { id, cover, title, author_img, author, reading_time, posted_date, hashtag
     } = blog
     return (
         <div className="mb-4 space-y-8">
@@ -17,15 +17,16 @@ const Blog = ({ blog, handleBookMark }) => {
                     </div>
                 </div>
                 <div className='flex items-center'>
-                    <h2>{reading_time}</h2>
-                    <button onClick={() => handleBookMark(blog)}><LuBookmark></LuBookmark></button>
+                    <h2>{reading_time} min read</h2>
+                    <button className="cursor-pointer ml-2" onClick={() => handleBookMark(blog)}><LuBookmark></LuBookmark></button>
 
                 </div>
             </div>
             <div className="space-y-4">
                 <h1 className="text-3xl font-bold">{title}</h1>
-                <p className="text-blue-600 underline"><a href="">{hashtag}</a></p>
-                <p className="text-fuchsia-800 underline"><a href="">Make as read</a></p>
+                <p ><a href="">{hashtag}</a></p>
+                {/* <p className="text-fuchsia-800 underline"><a href="">Make as read</a></p> */}
+                <button onClick={() => handleTimeOnRead(id, reading_time)} className="text-blue-600 underline cursor-pointer">Mark as read</button>
             </div>
 
         </div>

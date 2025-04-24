@@ -6,7 +6,7 @@
     "author": "John Doe",
     "author_img": "https://i.ibb.co.com/xqchrCxz/portrait-male-traveler-looking-camera-outdoors.jpg",
     "posted_date": "2024-12-05",
-    "reading_time": "7 min read",
+    "reading_time": 5,
     "hashtag": [
       "#react",
       "#javascript",
@@ -20,7 +20,7 @@
     "author": "Jane Smith",
     "author_img": "https://i.ibb.co.com/Q3Nrb60Z/young-adult-enjoying-virtual-date.jpg",
     "posted_date": "2025-01-10",
-    "reading_time": "5 min read",
+    "reading_time": 5,
     "hashtag": [
       "#javascript",
       "#advanced",
@@ -34,7 +34,7 @@
     "author": "Alice Johnson",
     "author_img": "https://i.ibb.co.com/PG65XscD/close-up-smiling-man-field-sunset.jpg",
     "posted_date": "2025-03-02",
-    "reading_time": "6 min read",
+    "reading_time": 6,
     "hashtag": [
       "#css",
       "#webdesign",
@@ -48,7 +48,7 @@
     "author": "Mark Lee",
     "author_img": "https://i.ibb.co.com/PG65XscD/close-up-smiling-man-field-sunset.jpg",
     "posted_date": "2025-04-12",
-    "reading_time": "4 min read",
+    "reading_time": 4,
     "hashtag": [
       "#performance",
       "#web",
@@ -62,7 +62,7 @@
     "author": "Sara Kim",
     "author_img": "https://i.ibb.co.com/PG65XscD/close-up-smiling-man-field-sunset.jpg",
     "posted_date": "2025-02-22",
-    "reading_time": "8 min read",
+    "reading_time": 8,
     "hashtag": [
       "#javascript",
       "#async",
